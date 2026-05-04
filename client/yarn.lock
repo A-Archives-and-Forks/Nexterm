@@ -566,7 +566,7 @@
   resolved "https://registry.yarnpkg.com/@solid-primitives/utils/-/utils-6.4.0.tgz#45257521d258cffd563b40d62163058af75496ae"
   integrity sha512-AeGTBg8Wtkh/0s+evyLtP8piQoS4wyqqQaAFs2HJcFMMjYAtUgo+ZPduRXLjPlqKVc2ejeR544oeqpbn8Egn8A==
 
-"@tauri-apps/api@^2", "@tauri-apps/api@^2.10.1", "@tauri-apps/api@^2.8.0":
+"@tauri-apps/api@^2", "@tauri-apps/api@^2.10.1", "@tauri-apps/api@^2.11.0", "@tauri-apps/api@^2.8.0":
   version "2.11.0"
   resolved "https://registry.yarnpkg.com/@tauri-apps/api/-/api-2.11.0.tgz#00fb69996010178a5153798d4a84f6fe3a1e1182"
   integrity sha512-7CinYODhky9lmO23xHnUFv0Xt43fbtWMyxZcLcRBlFkcgXKuEirBvHpmtJ89YMhyeGcq20Wuc47Fa4XjyniywA==
@@ -579,11 +579,11 @@
     "@tauri-apps/api" "^2.10.1"
 
 "@tauri-apps/plugin-fs@^2":
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/@tauri-apps/plugin-fs/-/plugin-fs-2.5.0.tgz#977d31ceb6aad600817aaa5233e0d86aee500aad"
-  integrity sha512-c83kbz61AK+rKjhS+je9+stIO27nXj7p9cqeg36TwkIUtxpCFTttlHHtqon6h6FN54cXjyAjlMPOJcW3mwE5XQ==
+  version "2.5.1"
+  resolved "https://registry.yarnpkg.com/@tauri-apps/plugin-fs/-/plugin-fs-2.5.1.tgz#e1b8643d41c74251699fcdecc800877d18a4a6fc"
+  integrity sha512-9Lz+Jopp6QyeEWhlpkMx4R/+P9HgR+AVAI4vOZhlT8Xaymtz8iVI/Ov984/XTqgJz/5gz5NretqPB/XEMS3NhQ==
   dependencies:
-    "@tauri-apps/api" "^2.10.1"
+    "@tauri-apps/api" "^2.11.0"
 
 "@tauri-apps/plugin-global-shortcut@^2.3.1":
   version "2.3.1"
